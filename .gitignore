@@ -112,3 +112,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
+
+#Pessoal
+*.db
+*.zip
+=======
+>>>>>>> parent of 6bcab89 (init)
